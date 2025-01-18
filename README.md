@@ -5,4 +5,5 @@
 
 [APIEndpoints.xlsx](https://github.com/user-attachments/files/18449796/APIEndpoints.xlsx)
 
-[API_INTEGRATION_AND_DATA_MIGRATION_Day3].(https://uiuxhackathon-two.vercel.app/)
+[Day 3 - API Integration Report - [Sofa.co].pdf](https://github.com/user-attachments/files/18466244/Day.3.-.API.Integration.Report.-.Sofa.co.pdf)_(https://uiuxhackathon-two.vercel.app/)
+
